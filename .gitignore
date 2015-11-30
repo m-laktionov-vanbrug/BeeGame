@@ -1,0 +1,9 @@
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+*.iml
+.idea/
+
+### Composer template
+composer.lock
+vendor/
+
